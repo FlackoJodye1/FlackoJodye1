@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Paul 👋
 
-<!--
-**FlackoJodye1/FlackoJodye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI / NLP Engineer** focused on **RAG systems, semantic search, and LLM evaluation**
 
-Here are some ideas to get you started:
+🎓 M.Sc. Data Science @ TU Wien (2024–2026)
+📍 Vienna  
+📄 Co-author @ ACL BioNLP 2025  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### Verbatim RAG Framework  
+Evidence-grounded QA with span-level retrieval and citation generation  
+- End-to-end retrieval + grounding pipeline  
+- Designed for clinical QA (EHR setting)  
+- Applied in ArchEHR-QA shared task  
+
+👉 https://github.com/KRLabsOrg/verbatim-rag  
+
+---
+
+### Sentence Relevance Model  
+Core component of the Verbatim RAG pipeline for sentence-level relevance classification  
+- Transformer-based model for identifying relevant context sentences  
+- Trained on RAGBench + medical QA datasets  
+- Window-based context modeling  
+- Enables fine-grained retrieval and grounding  
+
+👉 https://github.com/KRLabsOrg/verbatim-rag  
+
+---
+
+### Temporal Word Embeddings  
+Analysis of semantic change using diachronic embeddings  
+- Historical corpora & semantic drift analysis  
+- Research-oriented NLP project  
+
+👉 https://github.com/FlackoJodye1/temporal-word-embeddings  
+
+---
+
+## 🧪 Current Work
+
+### Word Sense Disambiguation & Semantic Change (German)  
+Ongoing research on WSD and diachronic semantic change using contextual embeddings  
+- Sense representation with GermaNet + LLM enrichment  
+- Embedding-based WSD (multilingual-e5)  
+- Large-scale diachronic analysis on DWDS corpus  
+
+📄 Planned submission to EMNLP 2026
+👉 https://2026.emnlp.org/
+
+## 🧠 Interests
+  
+- NLP & Transformer Models
+- Retrieval-Augmented Generation (RAG)
+- LLM Evaluation & Grounding  
+- Applied ML Systems
+- Data Analysis
+- Embeddings
+
+---
+
+## 📚 Publications
+
+- **ACL BioNLP 2025** – ArchEHR-QA Shared Task (Top-10)  
+  https://aclanthology.org/2025.bionlp-share.8/
+
+- **KONVENS / CPSS 2024** – Temporal Word Embeddings  
+  https://aclanthology.org/2024.cpss-1.10/
+
+---
+
+## 🔗 Links
+
+- GitHub: https://github.com/FlackoJodye1  
+- Google Scholar: https://scholar.google.com/citations?user=hmV4GPEAAAAJ
