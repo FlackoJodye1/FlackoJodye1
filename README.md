@@ -2,7 +2,7 @@
 
 **AI / NLP Engineer** focused on **RAG systems, semantic search, and LLM evaluation**
 
-🎓 M.Sc. Data Science @ TU Wien (2024–2026)
+🎓 M.Sc. Data Science @ TU Wien (2024–2026)  
 📍 Vienna  
 📄 Co-author @ ACL BioNLP 2025  
 
@@ -22,19 +22,19 @@ Evidence-grounded QA with span-level retrieval and citation generation
 
 ### Sentence Relevance Model  
 Core component of the Verbatim RAG pipeline for sentence-level relevance classification  
-- Transformer-based model for identifying relevant context sentences  
+- Developed transformer-based relevance model for fine-grained retrieval  
 - Trained on RAGBench + medical QA datasets  
-- Window-based context modeling  
-- Enables fine-grained retrieval and grounding  
+- Enables sentence-level grounding and evaluation  
 
 👉 https://github.com/KRLabsOrg/verbatim-rag  
 
 ---
 
 ### Temporal Word Embeddings  
-Analysis of semantic change using diachronic embeddings  
-- Historical corpora & semantic drift analysis  
-- Research-oriented NLP project  
+Modeling semantic change using diachronic embeddings and TPPMI  
+- Trained on 100k+ documents (NYT corpus)  
+- Evaluated on 8k+ temporal analogy queries  
+- Published at KONVENS / CPSS 2024  
 
 👉 https://github.com/FlackoJodye1/temporal-word-embeddings  
 
@@ -48,17 +48,8 @@ Ongoing research on WSD and diachronic semantic change using contextual embeddin
 - Embedding-based WSD (multilingual-e5)  
 - Large-scale diachronic analysis on DWDS corpus  
 
-📄 Planned submission to EMNLP 2026
-👉 https://2026.emnlp.org/
-
-## 🧠 Interests
-  
-- NLP & Transformer Models
-- Retrieval-Augmented Generation (RAG)
-- LLM Evaluation & Grounding  
-- Applied ML Systems
-- Data Analysis
-- Embeddings
+📄 Planned submission to EMNLP 2026  
+👉 https://2026.emnlp.org/  
 
 ---
 
@@ -72,7 +63,16 @@ Ongoing research on WSD and diachronic semantic change using contextual embeddin
 
 ---
 
+## 🧠 Interests
+
+- Retrieval-Augmented Generation (RAG)  
+- NLP & Transformer Models  
+- LLM Evaluation & Grounding  
+- Semantic Search & Embeddings  
+
+---
+
 ## 🔗 Links
 
 - GitHub: https://github.com/FlackoJodye1  
-- Google Scholar: https://scholar.google.com/citations?user=hmV4GPEAAAAJ
+- Google Scholar: https://scholar.google.com/citations?user=hmV4GPEAAAAJ  
