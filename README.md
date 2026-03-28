@@ -50,6 +50,7 @@ Ongoing research on WSD and diachronic semantic change using contextual embeddin
 
 📄 Planned submission to EMNLP 2026 https://2026.emnlp.org/  
 (repo is private for the moment)
+
 ---
 
 ## 📚 Publications
